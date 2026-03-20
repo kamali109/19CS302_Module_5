@@ -4,12 +4,17 @@
 To write a C program to calculate the area of a triangle using pointer.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+```
+.Start the program and declare a file pointer.
 
+2.Use fopen() in write mode to create and open the file "Hospital.txt".
+
+3.Check if the file was created and opened successfully and display a message.
+
+4.Close the file using fclose() after confirming successful opening.
+
+5.Display a message indicating the file was closed successfully.
+```
 ## Program:
 ```
 /*
